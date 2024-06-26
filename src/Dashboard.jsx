@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Dashboard() {
   return (
-    <div>you need to login or signup if not done</div>
+    <div>
+      <h1>LOGIN OR SIGNUP BEFORE YOU START</h1>
+    </div>
   )
 }
